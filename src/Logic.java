@@ -1,5 +1,3 @@
-package CalculadoraBasica;
-
 import java.util.Scanner;
 
 public class Logic implements mathBasic{

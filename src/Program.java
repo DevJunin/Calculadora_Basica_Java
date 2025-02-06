@@ -1,8 +1,6 @@
-package CalculadoraBasica;
-
 import java.util.Scanner;
 
-public class Main {
+public class Program {
     public static void main(String[] args) {
         int escolha = 0;
         Logic calc = new Logic();

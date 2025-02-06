@@ -1,5 +1,3 @@
-package CalculadoraBasica;
-
 public interface mathBasic {
 
     //Adicao
